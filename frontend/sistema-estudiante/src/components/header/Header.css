@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #181c28;
+  padding: 30px 20px;
+  color: white;
+  border-bottom: #214f6e solid 6px;
+}
+
+.header-left,
+.header-center,
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.header-center {
+  flex: 1;
+  justify-content: center;
+}
+
+/* Aumenta el tamaño de la fuente del texto */
+.header span {
+  font-size: 1.3em;
+}
+
+.header-right i {
+  font-size: 1.5em; /* Aumenta el tamaño de los íconos */
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.header-right i:hover {
+  color: #214f6e;
+}

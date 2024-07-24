@@ -1,0 +1,38 @@
+.dashboard-competencias-container {
+  padding: 50px; /* Aumentado el padding */
+}
+
+.text-left {
+  color: white;
+}
+
+.text-right {
+  margin: 2.2em 0;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.competencia-row {
+  background-color: #181c28;
+  padding: 1em 1em; /* Aumentado el padding */
+  border-radius: 5px;
+  margin: 0.5em 2.5em;
+}
+
+.dropdown-wrapper {
+  display: inline-block;
+  min-width: 150px; /* Ajusta este valor según sea necesario */
+}
+
+.progress-bar-low .progress-bar {
+  background-color: #8b0000 !important; /* Rojo oscuro */
+  color: white; /* Color del texto blanco */
+}
+
+.progress-bar-high .progress-bar {
+  background-color: #006400 !important; /* Verde oscuro */
+  color: white; /* Color del texto blanco */
+}

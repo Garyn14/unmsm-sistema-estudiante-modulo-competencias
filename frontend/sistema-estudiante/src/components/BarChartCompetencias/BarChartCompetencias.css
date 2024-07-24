@@ -1,0 +1,107 @@
+.bar-chart-competencias-container {
+  padding: 50px;
+}
+
+.text-left {
+  color: white;
+  font-size: 1.3em;
+  margin-left: 1.5em;
+}
+
+.text-right {
+  text-align: right;
+  margin: 2.2em 1.5em 2.2em 0;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.dropdown-wrapper {
+  display: inline-block;
+  min-width: 150px; /* Ajusta este valor según sea necesario */
+}
+
+.dropdown-wrapper .dropdown-toggle {
+  white-space: nowrap; /* Evitar que el texto se divida en varias líneas */
+  overflow: hidden; /* Ocultar el texto que sobrepasa el contenedor */
+  text-overflow: ellipsis; /* Mostrar puntos suspensivos para el texto que sobrepasa */
+  max-width: 200px; /* Ajustar el ancho máximo para evitar desbordamientos */
+}
+
+.dropdown-wrapper .dropdown-menu {
+  width: 100%;
+  max-width: 300px; /* Limitar el ancho máximo del menú desplegable */
+}
+
+.dropdown-item {
+  white-space: nowrap; /* Evitar que el texto se divida en varias líneas */
+  overflow: hidden; /* Ocultar el texto que sobrepasa el contenedor */
+  text-overflow: ellipsis; /* Mostrar puntos suspensivos para el texto que sobrepasa */
+}
+
+@media (max-width: 576px) {
+  .dropdown-wrapper {
+    width: 100%;
+  }
+
+  .dropdown-menu {
+    max-width: 100%; /* Asegurar que el menú desplegable ocupe todo el ancho en móviles */
+  }
+
+  .dropdown-item {
+    max-width: 100%; /* Asegurar que el ítem ocupe todo el ancho en móviles */
+  }
+
+  .text-left {
+    text-align: left;
+    margin-left: 1.5em;
+  }
+
+  .text-right{
+    text-align: right;
+    margin-right: 1.5em;
+  }
+} 
+
+@media (max-width: 1000px) {
+  .info-grafico {
+    display: none;  /* Ocultar la sección de descripción del gráfico en pantallas pequeñas */
+  }
+}
+
+.progress-bar-low .progress-bar {
+  background-color: #8b0000 !important; /* Rojo oscuro */
+  color: white; /* Color del texto blanco */
+}
+
+.progress-bar-high .progress-bar {
+  background-color: #006400 !important; /* Verde oscuro */
+  color: white; /* Color del texto blanco */
+}
+
+.info-grafico {
+  background-color: #AF695C;
+  padding: 0.5em 1.5em;
+  border-radius: 10px;
+}
+
+.info-grafico li, p {
+  text-align: left;
+}
+
+.contenedor-figura {
+  background-color: #181C29;
+  margin: 0 2.5em 1.5em;
+  padding: 1.5em;
+  border-radius: 10px;
+}
+
+.chart-container {
+  position: relative;
+  height: 50vh; /* Ajustar la altura de la gráfica */
+  width: 100%;
+  max-width: 100%; /* Asegurar que ocupe todo el ancho */
+  overflow-x: auto; /* Permitir desplazamiento horizontal */
+}

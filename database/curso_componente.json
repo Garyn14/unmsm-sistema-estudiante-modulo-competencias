@@ -1,0 +1,1575 @@
+[{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0f4"
+  },
+  "id": 1,
+  "codigo": "EP",
+  "descripcion": "Desarrolla un examen parcial",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0f6"
+  },
+  "id": 2,
+  "codigo": "PD",
+  "descripcion": "Desarrolla Demos",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0f8"
+  },
+  "id": 3,
+  "codigo": "PPaC",
+  "descripcion": "Participación en Clase",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0fa"
+  },
+  "id": 4,
+  "codigo": "PPCT",
+  "descripcion": "Realiza trabajos prácticos, resolución de casos, lecturas y prácticas calificadas",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0fc"
+  },
+  "id": 5,
+  "codigo": "EF",
+  "descripcion": "Desarrolla un examen final",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0fe"
+  },
+  "id": 6,
+  "codigo": "EP",
+  "descripcion": "Examen Parcial",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c100"
+  },
+  "id": 7,
+  "codigo": "SE",
+  "descripcion": "Software del proyecto de la asignatura",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c102"
+  },
+  "id": 8,
+  "codigo": "Py1",
+  "descripcion": "Exposición de avance del proyecto de software",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c104"
+  },
+  "id": 9,
+  "codigo": "Py2",
+  "descripcion": "Exposición final del proyecto de software",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c106"
+  },
+  "id": 10,
+  "codigo": "PTPyC",
+  "descripcion": "Trabajos prácticos aplicados",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c108"
+  },
+  "id": 11,
+  "codigo": "PPC",
+  "descripcion": "Participar en clase o foros de discusión",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c10a"
+  },
+  "id": 12,
+  "codigo": "EF",
+  "descripcion": "Examen Final",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c10c"
+  },
+  "id": 13,
+  "codigo": "N1",
+  "descripcion": "Componente N1",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c10e"
+  },
+  "id": 14,
+  "codigo": "N2",
+  "descripcion": "Componente N2",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c110"
+  },
+  "id": 15,
+  "codigo": "N3",
+  "descripcion": "Componente N3",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c112"
+  },
+  "id": 16,
+  "codigo": "PROM",
+  "descripcion": "Promedio Final",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c114"
+  },
+  "id": 17,
+  "codigo": "PROM",
+  "descripcion": "Promedio Final",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c116"
+  },
+  "id": 18,
+  "codigo": "N1",
+  "descripcion": "Componente N1",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c118"
+  },
+  "id": 19,
+  "codigo": "N2",
+  "descripcion": "Componente N2",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c11a"
+  },
+  "id": 20,
+  "codigo": "N3",
+  "descripcion": "Componente N3",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c11c"
+  },
+  "id": 21,
+  "codigo": "EPP",
+  "descripcion": "Exposición parcial del Proyecto",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c11e"
+  },
+  "id": 22,
+  "codigo": "PAP",
+  "descripcion": "Avances del Proyecto (4 exposiciones)",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c120"
+  },
+  "id": 23,
+  "codigo": "PPaC",
+  "descripcion": "Promedio Participación en Clase",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c122"
+  },
+  "id": 24,
+  "codigo": "EFP",
+  "descripcion": "Exposición final del Proyecto",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c124"
+  },
+  "id": 25,
+  "codigo": "AP1",
+  "descripcion": "Avance del Proyecto 1",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c126"
+  },
+  "id": 26,
+  "codigo": "AP2",
+  "descripcion": "Avance del Proyecto 2",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c128"
+  },
+  "id": 27,
+  "codigo": "AP3",
+  "descripcion": "Avance del Proyecto 3",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c12a"
+  },
+  "id": 28,
+  "codigo": "AP4",
+  "descripcion": "Avance del Proyecto 4",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c12c"
+  },
+  "id": 29,
+  "codigo": "PaC1",
+  "descripcion": "Participación en Clase 1",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c12e"
+  },
+  "id": 30,
+  "codigo": "PaC2",
+  "descripcion": "Participación en Clase 2",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c130"
+  },
+  "id": 31,
+  "codigo": "PaC3",
+  "descripcion": "Participación en Clase 3",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c132"
+  },
+  "id": 32,
+  "codigo": "PaC4",
+  "descripcion": "Participación en Clase 4",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c134"
+  },
+  "id": 33,
+  "codigo": "PaC5",
+  "descripcion": "Participación en Clase 5",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c136"
+  },
+  "id": 34,
+  "codigo": "PaC6",
+  "descripcion": "Participación en Clase 6",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c138"
+  },
+  "id": 35,
+  "codigo": "PaC7",
+  "descripcion": "Participación en Clase 7",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c13a"
+  },
+  "id": 36,
+  "codigo": "V1",
+  "descripcion": "Participación Video 1",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c13c"
+  },
+  "id": 37,
+  "codigo": "V2",
+  "descripcion": "Participación Video 2",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c13e"
+  },
+  "id": 38,
+  "codigo": "V3",
+  "descripcion": "Preguntas Video 3",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c140"
+  },
+  "id": 39,
+  "codigo": "V4",
+  "descripcion": "Preguntas Video 4",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c142"
+  },
+  "id": 40,
+  "codigo": "V5",
+  "descripcion": "Preguntas Video 5",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c144"
+  },
+  "id": 41,
+  "codigo": "EP1",
+  "descripcion": "Exposición Práctica 1",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c146"
+  },
+  "id": 42,
+  "codigo": "EP2",
+  "descripcion": "Exposición Práctica 2",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c148"
+  },
+  "id": 43,
+  "codigo": "EP3",
+  "descripcion": "Exposición Práctica 3",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c14a"
+  },
+  "id": 44,
+  "codigo": "EP45",
+  "descripcion": "Exposición Práctica 4 y 5",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c14c"
+  },
+  "id": 45,
+  "codigo": "EPA",
+  "descripcion": "Exposición Avance Proyecto",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c14e"
+  },
+  "id": 46,
+  "codigo": "EPF",
+  "descripcion": "Exposición Proyecto Final",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c150"
+  },
+  "id": 47,
+  "codigo": "P1",
+  "descripcion": "Práctica 1",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c152"
+  },
+  "id": 48,
+  "codigo": "P2",
+  "descripcion": "Práctica 2",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c154"
+  },
+  "id": 49,
+  "codigo": "P3",
+  "descripcion": "Práctica 3",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c156"
+  },
+  "id": 50,
+  "codigo": "P4",
+  "descripcion": "Práctica 4",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c158"
+  },
+  "id": 51,
+  "codigo": "P5",
+  "descripcion": "Práctica 5",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c15a"
+  },
+  "id": 52,
+  "codigo": "PC1",
+  "descripcion": "Práctica Calificada 1",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c15c"
+  },
+  "id": 53,
+  "codigo": "PC2",
+  "descripcion": "Práctica Calificada 2",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c15e"
+  },
+  "id": 54,
+  "codigo": "PROM",
+  "descripcion": "Promedio del Curso",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c160"
+  },
+  "id": 55,
+  "codigo": "N1",
+  "descripcion": "Componente N1",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c162"
+  },
+  "id": 56,
+  "codigo": "N2",
+  "descripcion": "Componente N2",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c164"
+  },
+  "id": 57,
+  "codigo": "N3",
+  "descripcion": "Componente N3",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c166"
+  },
+  "id": 58,
+  "codigo": "D1",
+  "descripcion": "Demo 1",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c168"
+  },
+  "id": 59,
+  "codigo": "D2",
+  "descripcion": "Demo 2",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c16a"
+  },
+  "id": 60,
+  "codigo": "D3",
+  "descripcion": "Demo 3",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c16c"
+  },
+  "id": 61,
+  "codigo": "D4",
+  "descripcion": "Demo 4",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c16e"
+  },
+  "id": 62,
+  "codigo": "D5",
+  "descripcion": "Demo 5",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c170"
+  },
+  "id": 63,
+  "codigo": "D6",
+  "descripcion": "Demo 6",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c172"
+  },
+  "id": 65,
+  "codigo": "Pa1",
+  "descripcion": "Participación D1",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c174"
+  },
+  "id": 66,
+  "codigo": "Pa2",
+  "descripcion": "Participación D2",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c176"
+  },
+  "id": 67,
+  "codigo": "Pa3",
+  "descripcion": "Participación D3",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c178"
+  },
+  "id": 68,
+  "codigo": "Pa4",
+  "descripcion": "Participación D4",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c17a"
+  },
+  "id": 69,
+  "codigo": "Pa5",
+  "descripcion": "Participación D5",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c17c"
+  },
+  "id": 70,
+  "codigo": "PaP1",
+  "descripcion": "Participación Práctica 1",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c17e"
+  },
+  "id": 71,
+  "codigo": "PaP2",
+  "descripcion": "Participación Práctica 2",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c180"
+  },
+  "id": 72,
+  "codigo": "PaP3",
+  "descripcion": "Participación Práctica 3",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c182"
+  },
+  "id": 73,
+  "codigo": "PaP4",
+  "descripcion": "Participación Práctica 4",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c184"
+  },
+  "id": 74,
+  "codigo": "PaP5",
+  "descripcion": "Participación Práctica 5",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c186"
+  },
+  "id": 75,
+  "codigo": "PaP6",
+  "descripcion": "Participación Práctica 6",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c188"
+  },
+  "id": 76,
+  "codigo": "PaP7",
+  "descripcion": "Participación Práctica 7",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c18a"
+  },
+  "id": 78,
+  "codigo": "P1",
+  "descripcion": "Práctica 1",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c18c"
+  },
+  "id": 79,
+  "codigo": "CL",
+  "descripcion": "Control de Lectura (Lectura 2)",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c18e"
+  },
+  "id": 80,
+  "codigo": "P2",
+  "descripcion": "Práctica 2 (en clase)",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c190"
+  },
+  "id": 81,
+  "codigo": "P3",
+  "descripcion": "Práctica 3",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c192"
+  },
+  "id": 82,
+  "codigo": "P4",
+  "descripcion": "Práctica 4",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c194"
+  },
+  "id": 83,
+  "codigo": "P5",
+  "descripcion": "Práctica 5",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c196"
+  },
+  "id": 84,
+  "codigo": "P6",
+  "descripcion": "Práctica 6 - Escenarios",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c198"
+  },
+  "id": 85,
+  "codigo": "P7",
+  "descripcion": "Práctica 7 - Atributos de Calidad",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c19a"
+  },
+  "id": 86,
+  "codigo": "P6",
+  "descripcion": "Práctica 6",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c19c"
+  },
+  "id": 87,
+  "codigo": "P7",
+  "descripcion": "Práctica 7",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c19e"
+  },
+  "id": 88,
+  "codigo": "P8",
+  "descripcion": "Práctica 8",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1a0"
+  },
+  "id": 89,
+  "codigo": "PC3",
+  "descripcion": "Práctica Calificada 3",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1a2"
+  },
+  "id": 90,
+  "codigo": "PaP6",
+  "descripcion": "Idea de la práctica 6",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1a4"
+  },
+  "id": 91,
+  "codigo": "PaC8",
+  "descripcion": "Participación en Clase 8",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1a6"
+  },
+  "id": 92,
+  "codigo": "PaC9",
+  "descripcion": "Participación en Clase 9",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1a8"
+  },
+  "id": 93,
+  "codigo": "Pa10",
+  "descripcion": "Participación en Clase 10",
+  "cursoid": 7
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1aa"
+  },
+  "id": 94,
+  "codigo": "PaP8",
+  "descripcion": "Participación Práctica 8",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1ac"
+  },
+  "id": 95,
+  "codigo": "PaP9",
+  "descripcion": "Participación Práctica 9",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1ae"
+  },
+  "id": 96,
+  "codigo": "P8",
+  "descripcion": "Práctica 8 - Identificación Drivers",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1b0"
+  },
+  "id": 97,
+  "codigo": "P9",
+  "descripcion": "Práctica 9 -  Métodos de Diseño",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1b2"
+  },
+  "id": 98,
+  "codigo": "PC1",
+  "descripcion": "Práctica Calificada 1",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1b4"
+  },
+  "id": 99,
+  "codigo": "P10",
+  "descripcion": "Práctica 10",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1b6"
+  },
+  "id": 100,
+  "codigo": "Pa6",
+  "descripcion": "Participación D6",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1b8"
+  },
+  "id": 101,
+  "codigo": "Pa7",
+  "descripcion": "Participación D7",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1ba"
+  },
+  "id": 102,
+  "codigo": "V6",
+  "descripcion": "Preguntas Video 6",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1bc"
+  },
+  "id": 103,
+  "codigo": "V7",
+  "descripcion": "Preguntas Video 7",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1be"
+  },
+  "id": 104,
+  "codigo": "EP7",
+  "descripcion": "Exposición Práctica 7",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1c0"
+  },
+  "id": 105,
+  "codigo": "EP8",
+  "descripcion": "Exposición Práctica 8",
+  "cursoid": 1
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1c2"
+  },
+  "id": 106,
+  "codigo": "P11",
+  "descripcion": "Práctica 11",
+  "cursoid": 3
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1c4"
+  },
+  "id": 107,
+  "codigo": "PROM",
+  "descripcion": "Promedio Final",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1c6"
+  },
+  "id": 108,
+  "codigo": "N1",
+  "descripcion": "Componente 1",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1c8"
+  },
+  "id": 109,
+  "codigo": "N2",
+  "descripcion": "Componente 2",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1ca"
+  },
+  "id": 110,
+  "codigo": "N3",
+  "descripcion": "Componente 3",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1cc"
+  },
+  "id": 111,
+  "codigo": "EPP",
+  "descripcion": "Exposición Parcial del Proyecto",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1ce"
+  },
+  "id": 112,
+  "codigo": "EFP",
+  "descripcion": "Exposición Final del Proyecto",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1d0"
+  },
+  "id": 113,
+  "codigo": "PaC",
+  "descripcion": "Participación en Clase",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1d2"
+  },
+  "id": 114,
+  "codigo": "TPP",
+  "descripcion": "Trabajos Prácticos sobre el Proyecto",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1d4"
+  },
+  "id": 115,
+  "codigo": "PCC",
+  "descripcion": "Prácticas Calificadas y Controles Lect.",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1d6"
+  },
+  "id": 116,
+  "codigo": "Pa1",
+  "descripcion": "Participación en clase 1",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1d8"
+  },
+  "id": 117,
+  "codigo": "Pa2",
+  "descripcion": "Participación en clase 2",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1da"
+  },
+  "id": 118,
+  "codigo": "Pa3",
+  "descripcion": "Participación en clase 3",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1dc"
+  },
+  "id": 119,
+  "codigo": "Pa4",
+  "descripcion": "Participación en clase 4",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1de"
+  },
+  "id": 120,
+  "codigo": "Pa5",
+  "descripcion": "Participación en clase 5",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1e0"
+  },
+  "id": 121,
+  "codigo": "Pa6",
+  "descripcion": "Participación en clase 6",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1e2"
+  },
+  "id": 122,
+  "codigo": "Pa7",
+  "descripcion": "Participación en clase 7",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1e4"
+  },
+  "id": 123,
+  "codigo": "Pa8",
+  "descripcion": "Participación en clase 8",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1e6"
+  },
+  "id": 124,
+  "codigo": "Pa9",
+  "descripcion": "Participación en clase 9",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1e8"
+  },
+  "id": 125,
+  "codigo": "Pa10",
+  "descripcion": "Participación en clase 10",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1ea"
+  },
+  "id": 126,
+  "codigo": "Pa11",
+  "descripcion": "Participación en clase 11",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1ec"
+  },
+  "id": 127,
+  "codigo": "Pa12",
+  "descripcion": "Participación en clase 12",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1ee"
+  },
+  "id": 128,
+  "codigo": "T1",
+  "descripcion": "Tarea 1",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1f0"
+  },
+  "id": 129,
+  "codigo": "T2",
+  "descripcion": "Tarea 2",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1f2"
+  },
+  "id": 130,
+  "codigo": "T3",
+  "descripcion": "Tarea 3",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1f4"
+  },
+  "id": 131,
+  "codigo": "T4",
+  "descripcion": "Tarea 4",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1f6"
+  },
+  "id": 132,
+  "codigo": "T5",
+  "descripcion": "Tarea 5",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1f8"
+  },
+  "id": 133,
+  "codigo": "T6",
+  "descripcion": "Tarea 6",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1fa"
+  },
+  "id": 134,
+  "codigo": "T7",
+  "descripcion": "Tarea 7",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1fc"
+  },
+  "id": 135,
+  "codigo": "T8",
+  "descripcion": "Tarea 8",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c1fe"
+  },
+  "id": 136,
+  "codigo": "T9",
+  "descripcion": "Tarea 9",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c200"
+  },
+  "id": 137,
+  "codigo": "T10",
+  "descripcion": "Tarea 10",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c202"
+  },
+  "id": 138,
+  "codigo": "T11",
+  "descripcion": "Tarea 11",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c204"
+  },
+  "id": 139,
+  "codigo": "T12",
+  "descripcion": "Tarea 12",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c206"
+  },
+  "id": 140,
+  "codigo": "T13",
+  "descripcion": "Tarea 13",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c208"
+  },
+  "id": 141,
+  "codigo": "T14",
+  "descripcion": "Tarea 14",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c20a"
+  },
+  "id": 142,
+  "codigo": "PC1",
+  "descripcion": "Práctica Calificada 1",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c20c"
+  },
+  "id": 143,
+  "codigo": "PC2",
+  "descripcion": "Práctica Calificada 2",
+  "cursoid": 8
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c20e"
+  },
+  "id": 144,
+  "codigo": "PROM",
+  "descripcion": "Promedio Final",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c210"
+  },
+  "id": 145,
+  "codigo": "N1",
+  "descripcion": "Componente 1",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c212"
+  },
+  "id": 146,
+  "codigo": "N2",
+  "descripcion": "Componente 2",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c214"
+  },
+  "id": 147,
+  "codigo": "N3",
+  "descripcion": "Componente 3",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c216"
+  },
+  "id": 148,
+  "codigo": "EPP",
+  "descripcion": "Exposición Parcial del Proyecto",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c218"
+  },
+  "id": 149,
+  "codigo": "EFP",
+  "descripcion": "Exposición Final del Proyecto",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c21a"
+  },
+  "id": 150,
+  "codigo": "PaC",
+  "descripcion": "Participación en Clase",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c21c"
+  },
+  "id": 151,
+  "codigo": "DT",
+  "descripcion": "Desarrollo Trabajos Prácticos",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c21e"
+  },
+  "id": 152,
+  "codigo": "Pa13",
+  "descripcion": "Participación en clase 1",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c220"
+  },
+  "id": 153,
+  "codigo": "Pa14",
+  "descripcion": "Participación en clase 2",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c222"
+  },
+  "id": 154,
+  "codigo": "Pa3",
+  "descripcion": "Participación en clase 3",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c224"
+  },
+  "id": 155,
+  "codigo": "Pa4",
+  "descripcion": "Participación en clase 4",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c226"
+  },
+  "id": 156,
+  "codigo": "Pa5",
+  "descripcion": "Participación en clase 5",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c228"
+  },
+  "id": 157,
+  "codigo": "Pa15",
+  "descripcion": "Participación en clase 6",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c22a"
+  },
+  "id": 158,
+  "codigo": "Pa16",
+  "descripcion": "Participación en clase 7",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c22c"
+  },
+  "id": 159,
+  "codigo": "Pa8",
+  "descripcion": "Participación en clase 8",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c22e"
+  },
+  "id": 160,
+  "codigo": "Pa9",
+  "descripcion": "Participación en clase 9",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c230"
+  },
+  "id": 161,
+  "codigo": "Pa10",
+  "descripcion": "Participación en clase 10",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c232"
+  },
+  "id": 162,
+  "codigo": "Pa11",
+  "descripcion": "Participación en clase 11",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c234"
+  },
+  "id": 163,
+  "codigo": "Pa12",
+  "descripcion": "Participación en clase 12",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c236"
+  },
+  "id": 164,
+  "codigo": "T1",
+  "descripcion": "Tarea 1",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c238"
+  },
+  "id": 165,
+  "codigo": "T2",
+  "descripcion": "Tarea 2",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c23a"
+  },
+  "id": 166,
+  "codigo": "T3",
+  "descripcion": "Tarea 3",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c23c"
+  },
+  "id": 167,
+  "codigo": "T4",
+  "descripcion": "Tarea 4",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c23e"
+  },
+  "id": 168,
+  "codigo": "T5",
+  "descripcion": "Tarea 5",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c240"
+  },
+  "id": 169,
+  "codigo": "T6",
+  "descripcion": "Tarea 6",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c242"
+  },
+  "id": 170,
+  "codigo": "T7",
+  "descripcion": "Tarea 7",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c244"
+  },
+  "id": 171,
+  "codigo": "T8",
+  "descripcion": "Tarea 8",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c246"
+  },
+  "id": 172,
+  "codigo": "T9",
+  "descripcion": "Tarea 9",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c248"
+  },
+  "id": 173,
+  "codigo": "T10",
+  "descripcion": "Tarea 10",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c24a"
+  },
+  "id": 174,
+  "codigo": "T11",
+  "descripcion": "Tarea 11",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c24c"
+  },
+  "id": 175,
+  "codigo": "T12",
+  "descripcion": "Tarea 12",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c24e"
+  },
+  "id": 176,
+  "codigo": "T13",
+  "descripcion": "Tarea 13",
+  "cursoid": 9
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c250"
+  },
+  "id": 177,
+  "codigo": "T14",
+  "descripcion": "Tarea 14",
+  "cursoid": 9
+}]

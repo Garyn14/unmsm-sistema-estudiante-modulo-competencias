@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "664945f3a55921e8e3c0c256"
+  },
+  "id": 1,
+  "codigo": "P2018",
+  "descripcion": "Plan 2018",
+  "carreraid": 2,
+  "carrera_ref": {
+    "$oid": "664945f2a55921e8e3c0c054"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f3a55921e8e3c0c258"
+  },
+  "id": 2,
+  "codigo": "P2015",
+  "descripcion": "Plan 2015",
+  "carreraid": 2,
+  "carrera_ref": {
+    "$oid": "664945f2a55921e8e3c0c054"
+  }
+}]

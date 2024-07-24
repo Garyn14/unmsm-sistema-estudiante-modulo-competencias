@@ -1,0 +1,176 @@
+id,codigo,descripcion,evaluacionid,peso,estado,cursoid,orden,padreid,nivel,institucionid,calculado,departamentoid,formulaid
+1,EP,"Desarrolla un examen parcial",1,100.00,1,3,1,55,3,1,false,NULL,NULL
+2,PD,"Desarrolla Demos",3,50.00,1,3,10,56,3,1,true,NULL,2
+3,PPaC,"Participación en Clase",2,20.00,1,3,27,56,3,1,true,NULL,3
+4,PPCT,"Realiza trabajos prácticos, resolución de casos, lecturas y prácticas calificadas",3,30.00,1,3,42,56,3,1,true,NULL,2
+5,EF,"Desarrolla un examen final",1,100.00,1,3,44,57,3,1,false,NULL,NULL
+6,EP,"Examen Parcial",1,100.00,1,1,1,13,3,1,false,NULL,NULL
+7,SE,"Software del proyecto de la asignatura",4,20.00,1,1,5,14,3,1,false,NULL,NULL
+8,Py1,"Exposición de avance del proyecto de software",2,5.00,1,1,3,14,3,1,false,NULL,NULL
+9,Py2,"Exposición final del proyecto de software",2,5.00,1,1,4,14,3,1,false,NULL,NULL
+10,PTPyC,"Trabajos prácticos aplicados",3,50.00,1,1,17,14,3,1,true,NULL,2
+11,PPC,"Participar en clase o foros de discusión",2,20.00,1,1,34,14,3,1,true,NULL,2
+12,EF,"Examen Final",1,100.00,1,1,36,15,3,1,false,NULL,NULL
+13,N1,"Componente N1",NULL,20.00,1,1,2,16,2,1,true,NULL,6
+14,N2,"Componente N2",NULL,60.00,1,1,35,16,2,1,true,NULL,5
+15,N3,"Componente N3",NULL,20.00,1,1,37,16,2,1,true,NULL,6
+16,PROM,"Promedio Final",NULL,100.00,1,1,38,NULL,1,1,true,NULL,5
+17,PROM,"Promedio Final",NULL,100.00,1,7,22,NULL,1,1,true,NULL,5
+18,N1,"Componente N1",NULL,20.00,1,7,2,17,2,1,true,NULL,6
+19,N2,"Componente N2",NULL,60.00,1,7,19,17,2,1,true,NULL,5
+20,N3,"Componente N3",NULL,20.00,1,7,21,17,2,1,true,NULL,6
+21,EPP,"Exposición parcial del Proyecto",NULL,100.00,1,7,1,18,3,1,false,NULL,NULL
+22,PAP,"Avances del Proyecto (4 exposiciones)",NULL,80.00,1,7,7,19,3,1,true,NULL,3
+23,PPaC,"Promedio Participación en Clase",NULL,20.00,1,7,18,19,3,1,true,NULL,3
+24,EFP,"Exposición final del Proyecto",NULL,100.00,1,7,20,20,3,1,false,NULL,NULL
+25,AP1,"Avance del Proyecto 1",NULL,NULL,1,7,3,22,4,1,false,NULL,NULL
+26,AP2,"Avance del Proyecto 2",NULL,NULL,1,7,4,22,4,1,false,NULL,NULL
+27,AP3,"Avance del Proyecto 3",NULL,NULL,1,7,5,22,4,1,false,NULL,NULL
+28,AP4,"Avance del Proyecto 4",NULL,NULL,1,7,6,22,4,1,false,NULL,NULL
+29,PaC1,"Participación en Clase 1",NULL,NULL,1,7,8,23,4,1,false,NULL,NULL
+30,PaC2,"Participación en Clase 2",NULL,NULL,1,7,9,23,4,1,false,NULL,NULL
+31,PaC3,"Participación en Clase 3",NULL,NULL,1,7,10,23,4,1,false,NULL,NULL
+32,PaC4,"Participación en Clase 4",NULL,NULL,1,7,11,23,4,1,false,NULL,NULL
+33,PaC5,"Participación en Clase 5",NULL,NULL,1,7,12,23,4,1,false,NULL,NULL
+34,PaC6,"Participación en Clase 6",NULL,NULL,1,7,13,23,4,1,false,NULL,NULL
+35,PaC7,"Participación en Clase 7",NULL,NULL,1,7,14,23,4,1,false,NULL,NULL
+36,V1,"Participación Video 1",NULL,NULL,1,1,18,11,4,1,false,NULL,NULL
+37,V2,"Participación Video 2",NULL,NULL,1,1,19,11,4,1,false,NULL,NULL
+38,V3,"Preguntas Video 3",NULL,NULL,1,1,20,11,4,1,false,NULL,NULL
+39,V4,"Preguntas Video 4",NULL,NULL,1,1,21,11,4,1,false,NULL,NULL
+40,V5,"Preguntas Video 5",NULL,NULL,1,1,22,11,4,1,false,NULL,NULL
+41,EP1,"Exposición Práctica 1",NULL,NULL,1,1,25,11,4,1,false,NULL,NULL
+42,EP2,"Exposición Práctica 2",NULL,NULL,1,1,26,11,4,1,false,NULL,NULL
+43,EP3,"Exposición Práctica 3",NULL,NULL,1,1,27,11,4,1,false,NULL,NULL
+44,EP45,"Exposición Práctica 4 y 5",NULL,NULL,1,1,28,11,4,1,false,NULL,NULL
+45,EPA,"Exposición Avance Proyecto",NULL,NULL,1,1,32,11,4,1,false,NULL,NULL
+46,EPF,"Exposición Proyecto Final",NULL,NULL,1,1,33,11,4,1,false,NULL,NULL
+47,P1,"Práctica 1",NULL,NULL,1,1,6,10,4,1,false,NULL,NULL
+48,P2,"Práctica 2",NULL,NULL,1,1,7,10,4,1,false,NULL,NULL
+49,P3,"Práctica 3",NULL,NULL,1,1,8,10,4,1,false,NULL,NULL
+50,P4,"Práctica 4",NULL,NULL,1,1,9,10,4,1,false,NULL,NULL
+51,P5,"Práctica 5",NULL,NULL,1,1,10,10,4,1,false,NULL,NULL
+52,PC1,"Práctica Calificada 1",NULL,NULL,1,1,14,10,4,1,false,NULL,NULL
+53,PC2,"Práctica Calificada 2",NULL,NULL,1,1,15,10,4,1,false,NULL,NULL
+54,PROM,"Promedio del Curso",NULL,100.00,1,3,46,NULL,1,1,true,NULL,5
+55,N1,"Componente N1",NULL,20.00,1,3,2,54,2,1,true,NULL,6
+56,N2,"Componente N2",NULL,60.00,1,3,43,54,2,1,true,NULL,5
+57,N3,"Componente N3",NULL,20.00,1,3,45,54,2,1,true,NULL,6
+58,D1,"Demo 1",NULL,NULL,1,3,3,2,4,1,false,NULL,NULL
+59,D2,"Demo 2",NULL,NULL,1,3,4,2,4,1,false,NULL,NULL
+60,D3,"Demo 3",NULL,NULL,1,3,5,2,4,1,false,NULL,NULL
+61,D4,"Demo 4",NULL,NULL,1,3,6,2,4,1,false,NULL,NULL
+62,D5,"Demo 5",NULL,NULL,1,3,7,2,4,1,false,NULL,NULL
+63,D6,"Demo 6",NULL,NULL,1,3,8,2,4,1,false,NULL,NULL
+65,Pa1,"Participación D1",NULL,NULL,1,3,11,3,4,1,false,NULL,NULL
+66,Pa2,"Participación D2",NULL,NULL,1,3,12,3,4,1,false,NULL,NULL
+67,Pa3,"Participación D3",NULL,NULL,1,3,13,3,4,1,false,NULL,NULL
+68,Pa4,"Participación D4",NULL,NULL,1,3,14,3,4,1,false,NULL,NULL
+69,Pa5,"Participación D5",NULL,NULL,1,3,15,3,4,1,false,NULL,NULL
+70,PaP1,"Participación Práctica 1",NULL,NULL,1,3,18,3,4,1,false,NULL,NULL
+71,PaP2,"Participación Práctica 2",NULL,NULL,1,3,19,3,4,1,false,NULL,NULL
+72,PaP3,"Participación Práctica 3",NULL,NULL,1,3,20,3,4,1,false,NULL,NULL
+73,PaP4,"Participación Práctica 4",NULL,NULL,1,3,21,3,4,1,false,NULL,NULL
+74,PaP5,"Participación Práctica 5",NULL,NULL,1,3,22,3,4,1,false,NULL,NULL
+75,PaP6,"Participación Práctica 6",NULL,NULL,1,3,23,3,4,1,false,NULL,NULL
+76,PaP7,"Participación Práctica 7",NULL,NULL,1,3,24,3,4,1,false,NULL,NULL
+78,P1,"Práctica 1",NULL,NULL,1,3,29,4,4,1,false,NULL,NULL
+79,CL,"Control de Lectura (Lectura 2)",NULL,NULL,1,3,30,4,4,1,false,NULL,NULL
+80,P2,"Práctica 2 (en clase)",NULL,NULL,1,3,31,4,4,1,false,NULL,NULL
+81,P3,"Práctica 3",NULL,NULL,1,3,32,4,4,1,false,NULL,NULL
+82,P4,"Práctica 4",NULL,NULL,1,3,33,4,4,1,false,NULL,NULL
+83,P5,"Práctica 5",NULL,NULL,1,3,34,4,4,1,false,NULL,NULL
+84,P6,"Práctica 6 - Escenarios",NULL,NULL,1,3,35,4,4,1,false,NULL,NULL
+85,P7,"Práctica 7 - Atributos de Calidad",NULL,NULL,1,3,36,4,4,1,false,NULL,NULL
+86,P6,"Práctica 6",NULL,NULL,1,1,11,10,4,1,false,NULL,NULL
+87,P7,"Práctica 7",NULL,NULL,1,1,12,10,4,1,false,NULL,NULL
+88,P8,"Práctica 8",NULL,NULL,1,1,13,10,4,1,false,NULL,NULL
+89,PC3,"Práctica Calificada 3",NULL,NULL,1,1,16,10,4,1,false,NULL,NULL
+90,PaP6,"Idea de la práctica 6",NULL,NULL,1,1,29,11,4,1,false,NULL,NULL
+91,PaC8,"Participación en Clase 8",NULL,NULL,1,7,15,23,4,1,false,NULL,NULL
+92,PaC9,"Participación en Clase 9",NULL,NULL,1,7,16,23,4,1,false,NULL,NULL
+93,Pa10,"Participación en Clase 10",NULL,NULL,1,7,17,23,4,1,false,NULL,NULL
+94,PaP8,"Participación Práctica 8",NULL,NULL,1,3,25,3,4,1,false,NULL,NULL
+95,PaP9,"Participación Práctica 9",NULL,NULL,1,3,26,3,4,1,false,NULL,NULL
+96,P8,"Práctica 8 - Identificación Drivers",NULL,NULL,1,3,37,4,4,1,false,NULL,NULL
+97,P9,"Práctica 9 -  Métodos de Diseño",NULL,NULL,1,3,38,4,4,1,false,NULL,NULL
+98,PC1,"Práctica Calificada 1",NULL,NULL,1,3,39,4,4,1,false,NULL,NULL
+99,P10,"Práctica 10",NULL,NULL,1,3,40,4,4,1,false,NULL,NULL
+100,Pa6,"Participación D6",NULL,NULL,1,3,16,3,4,1,false,NULL,NULL
+101,Pa7,"Participación D7",NULL,NULL,1,3,17,3,4,1,false,NULL,NULL
+102,V6,"Preguntas Video 6",NULL,NULL,1,1,23,11,4,1,false,NULL,NULL
+103,V7,"Preguntas Video 7",NULL,NULL,1,1,24,11,4,1,false,NULL,NULL
+104,EP7,"Exposición Práctica 7",NULL,NULL,1,1,30,11,4,1,false,NULL,NULL
+105,EP8,"Exposición Práctica 8",NULL,NULL,1,1,31,11,4,1,false,NULL,NULL
+106,P11,"Práctica 11",NULL,NULL,1,3,41,4,4,1,false,NULL,NULL
+107,PROM,"Promedio Final",NULL,100.00,1,8,37,NULL,1,1,true,1,5
+108,N1,"Componente 1",NULL,20.00,1,8,2,107,2,1,true,1,6
+109,N2,"Componente 2",NULL,60.00,1,8,34,107,2,1,true,1,5
+110,N3,"Componente 3",NULL,20.00,1,8,36,107,2,1,true,1,6
+111,EPP,"Exposición Parcial del Proyecto",NULL,100.00,1,8,1,108,3,1,false,1,NULL
+112,EFP,"Exposición Final del Proyecto",NULL,100.00,1,8,35,110,3,1,false,1,NULL
+113,PaC,"Participación en Clase",NULL,20.00,1,8,15,109,3,1,true,1,3
+114,TPP,"Trabajos Prácticos sobre el Proyecto",NULL,60.00,1,8,30,109,3,1,true,1,3
+115,PCC,"Prácticas Calificadas y Controles Lect.",NULL,20.00,1,8,33,109,3,1,true,1,3
+116,Pa1,"Participación en clase 1",NULL,NULL,1,8,3,113,4,1,false,1,NULL
+117,Pa2,"Participación en clase 2",NULL,NULL,1,8,4,113,4,1,false,1,NULL
+118,Pa3,"Participación en clase 3",NULL,NULL,1,8,5,113,4,1,false,1,NULL
+119,Pa4,"Participación en clase 4",NULL,NULL,1,8,6,113,4,1,false,1,NULL
+120,Pa5,"Participación en clase 5",NULL,NULL,1,8,7,113,4,1,false,1,NULL
+121,Pa6,"Participación en clase 6",NULL,NULL,1,8,8,113,4,1,false,1,NULL
+122,Pa7,"Participación en clase 7",NULL,NULL,1,8,9,113,4,1,false,1,NULL
+123,Pa8,"Participación en clase 8",NULL,NULL,1,8,10,113,4,1,false,1,NULL
+124,Pa9,"Participación en clase 9",NULL,NULL,1,8,11,113,4,1,false,1,NULL
+125,Pa10,"Participación en clase 10",NULL,NULL,1,8,12,113,4,1,false,1,NULL
+126,Pa11,"Participación en clase 11",NULL,NULL,1,8,13,113,4,1,false,1,NULL
+127,Pa12,"Participación en clase 12",NULL,NULL,1,8,14,113,4,1,false,1,NULL
+128,T1,"Tarea 1",NULL,NULL,1,8,16,114,4,1,false,1,NULL
+129,T2,"Tarea 2",NULL,NULL,1,8,17,114,4,1,false,1,NULL
+130,T3,"Tarea 3",NULL,NULL,1,8,18,114,4,1,false,1,NULL
+131,T4,"Tarea 4",NULL,NULL,1,8,19,114,4,1,false,1,NULL
+132,T5,"Tarea 5",NULL,NULL,1,8,20,114,4,1,false,1,NULL
+133,T6,"Tarea 6",NULL,NULL,1,8,21,114,4,1,false,1,NULL
+134,T7,"Tarea 7",NULL,NULL,1,8,22,114,4,1,false,1,NULL
+135,T8,"Tarea 8",NULL,NULL,1,8,23,114,4,1,false,1,NULL
+136,T9,"Tarea 9",NULL,NULL,1,8,24,114,4,1,false,1,NULL
+137,T10,"Tarea 10",NULL,NULL,1,8,25,114,4,1,false,1,NULL
+138,T11,"Tarea 11",NULL,NULL,1,8,26,114,4,1,false,1,NULL
+139,T12,"Tarea 12",NULL,NULL,1,8,27,114,4,1,false,1,NULL
+140,T13,"Tarea 13",NULL,NULL,1,8,28,114,4,1,false,1,NULL
+141,T14,"Tarea 14",NULL,NULL,1,8,29,114,4,1,false,1,NULL
+142,PC1,"Práctica Calificada 1",NULL,NULL,1,8,31,115,4,1,false,1,NULL
+143,PC2,"Práctica Calificada 2",NULL,NULL,1,8,32,115,4,1,false,1,NULL
+144,PROM,"Promedio Final",NULL,100.00,1,9,34,NULL,1,1,true,1,5
+145,N1,"Componente 1",NULL,20.00,1,9,2,144,2,1,true,1,6
+146,N2,"Componente 2",NULL,60.00,1,9,31,144,2,1,true,1,5
+147,N3,"Componente 3",NULL,20.00,1,9,33,144,2,1,true,1,6
+148,EPP,"Exposición Parcial del Proyecto",NULL,100.00,1,9,1,145,3,1,false,1,NULL
+149,EFP,"Exposición Final del Proyecto",NULL,100.00,1,9,32,147,3,1,false,1,NULL
+150,PaC,"Participación en Clase",NULL,20.00,1,9,15,146,3,1,true,1,3
+151,DT,"Desarrollo Trabajos Prácticos",NULL,80.00,1,9,30,146,3,1,true,1,2
+152,Pa13,"Participación en clase 1",NULL,NULL,1,9,11,150,4,1,false,1,NULL
+153,Pa14,"Participación en clase 2",NULL,NULL,1,9,12,150,4,1,false,1,NULL
+154,Pa3,"Participación en clase 3",NULL,NULL,1,9,3,150,4,1,false,1,NULL
+155,Pa4,"Participación en clase 4",NULL,NULL,1,9,4,150,4,1,false,1,NULL
+156,Pa5,"Participación en clase 5",NULL,NULL,1,9,5,150,4,1,false,1,NULL
+157,Pa15,"Participación en clase 6",NULL,NULL,1,9,13,150,4,1,false,1,NULL
+158,Pa16,"Participación en clase 7",NULL,NULL,1,9,14,150,4,1,false,1,NULL
+159,Pa8,"Participación en clase 8",NULL,NULL,1,9,6,150,4,1,false,1,NULL
+160,Pa9,"Participación en clase 9",NULL,NULL,1,9,7,150,4,1,false,1,NULL
+161,Pa10,"Participación en clase 10",NULL,NULL,1,9,8,150,4,1,false,1,NULL
+162,Pa11,"Participación en clase 11",NULL,NULL,1,9,9,150,4,1,false,1,NULL
+163,Pa12,"Participación en clase 12",NULL,NULL,1,9,10,150,4,1,false,1,NULL
+164,T1,"Tarea 1",NULL,NULL,1,9,16,151,4,1,false,1,NULL
+165,T2,"Tarea 2",NULL,NULL,1,9,17,151,4,1,false,1,NULL
+166,T3,"Tarea 3",NULL,NULL,1,9,18,151,4,1,false,1,NULL
+167,T4,"Tarea 4",NULL,NULL,1,9,19,151,4,1,false,1,NULL
+168,T5,"Tarea 5",NULL,NULL,1,9,20,151,4,1,false,1,NULL
+169,T6,"Tarea 6",NULL,NULL,1,9,21,151,4,1,false,1,NULL
+170,T7,"Tarea 7",NULL,NULL,1,9,22,151,4,1,false,1,NULL
+171,T8,"Tarea 8",NULL,NULL,1,9,23,151,4,1,false,1,NULL
+172,T9,"Tarea 9",NULL,NULL,1,9,24,151,4,1,false,1,NULL
+173,T10,"Tarea 10",NULL,NULL,1,9,25,151,4,1,false,1,NULL
+174,T11,"Tarea 11",NULL,NULL,1,9,26,151,4,1,false,1,NULL
+175,T12,"Tarea 12",NULL,NULL,1,9,27,151,4,1,false,1,NULL
+176,T13,"Tarea 13",NULL,NULL,1,9,28,151,4,1,false,1,NULL
+177,T14,"Tarea 14",NULL,NULL,1,9,29,151,4,1,false,1,NULL

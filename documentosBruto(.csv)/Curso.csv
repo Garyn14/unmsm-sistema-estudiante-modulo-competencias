@@ -1,0 +1,6 @@
+id,codigo,nombre,tipo,numHorasTeoria,numHorasPractica,numHorasLaboratorio,numHorasCampo,numCreditos,ciclo,estado,periodoacademicoid,planestudiosid,institucionid,departamentoid,sumilla,modalidad
+1,50W0100,"Análisis y Diseño de Software",obligatorio,3,0,2,NULL,4.00,VII,1,1,2,1,1,NULL,NULL
+3,50W0102,"Arquitecturas Modernas",obligatorio,3,0,2,NULL,4.00,VII,1,1,1,1,1,NULL,NULL
+7,50W0103,"Desarrollo de Software",obligatorio,3,0,2,NULL,3.00,VIII,1,1,1,1,1,NULL,NULL
+8,50W0104,"Métodos y Técnicas de Diseño",obligatorio,3,0,2,NULL,4.00,VI,1,2,1,1,1,NULL,NULL
+9,50W0105,"Metodologías Ágiles",obligatorio,2,0,2,NULL,3.00,X,1,2,1,1,1,NULL,NULL

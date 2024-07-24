@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  },
+  "id": 1,
+  "codigo": "2023-I",
+  "descripcion": "Semestre 2023-I",
+  "tipo": "Semestral"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  },
+  "id": 2,
+  "codigo": "2023-II",
+  "descripcion": "Semestre 2023-II",
+  "tipo": "Semestral"
+}]

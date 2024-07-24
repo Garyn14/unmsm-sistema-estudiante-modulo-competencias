@@ -1,0 +1,3 @@
+id,codigo,descripcion,tipo,fechaInicio,fechaFin,modalidad,institucionid,estado,activo,departamentoid
+1,2023-I,"Semestre 2023-I",Semestral,NULL,NULL,NULL,1,1,1,1
+2,2023-II,"Semestre 2023-II",Semestral,NULL,NULL,NULL,1,1,0,1

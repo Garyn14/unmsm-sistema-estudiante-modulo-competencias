@@ -1,0 +1,3 @@
+id,codigo,descripcion,vigencia,institucionid,departamentoid,estado,carreraid
+1,P2018,"Plan 2018","01.01.2018 - 31.12.2025",NULL,NULL,1,2
+2,P2015,"Plan 2015","01.01.2015 - 31.12.2023",NULL,NULL,1,2

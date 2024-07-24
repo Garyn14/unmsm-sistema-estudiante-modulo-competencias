@@ -1,0 +1,1980 @@
+[{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a96c"
+  },
+  "id": 1,
+  "alumnoid": 1,
+  "cursoid": 1,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a890"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b2"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a96e"
+  },
+  "id": 2,
+  "alumnoid": 2,
+  "cursoid": 1,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a892"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b2"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a970"
+  },
+  "id": 3,
+  "alumnoid": 3,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a894"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a972"
+  },
+  "id": 4,
+  "alumnoid": 4,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a896"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a974"
+  },
+  "id": 5,
+  "alumnoid": 5,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a898"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a976"
+  },
+  "id": 6,
+  "alumnoid": 6,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a89a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a978"
+  },
+  "id": 7,
+  "alumnoid": 7,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a89c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a97a"
+  },
+  "id": 8,
+  "alumnoid": 8,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a89e"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a97c"
+  },
+  "id": 9,
+  "alumnoid": 9,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8a0"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a97e"
+  },
+  "id": 10,
+  "alumnoid": 10,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8a2"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a980"
+  },
+  "id": 11,
+  "alumnoid": 11,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8a4"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a982"
+  },
+  "id": 12,
+  "alumnoid": 12,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8a6"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a984"
+  },
+  "id": 13,
+  "alumnoid": 13,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8a8"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a986"
+  },
+  "id": 14,
+  "alumnoid": 14,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8aa"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a988"
+  },
+  "id": 15,
+  "alumnoid": 15,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8ac"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a98a"
+  },
+  "id": 16,
+  "alumnoid": 16,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8ae"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a98c"
+  },
+  "id": 17,
+  "alumnoid": 17,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8b0"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a98e"
+  },
+  "id": 18,
+  "alumnoid": 18,
+  "cursoid": 7,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8b2"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a990"
+  },
+  "id": 19,
+  "alumnoid": 19,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8b4"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a992"
+  },
+  "id": 20,
+  "alumnoid": 20,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8b6"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a994"
+  },
+  "id": 21,
+  "alumnoid": 21,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8b8"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a996"
+  },
+  "id": 22,
+  "alumnoid": 22,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8ba"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a998"
+  },
+  "id": 23,
+  "alumnoid": 23,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8bc"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a99a"
+  },
+  "id": 24,
+  "alumnoid": 24,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8be"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a99c"
+  },
+  "id": 25,
+  "alumnoid": 25,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8c0"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a99e"
+  },
+  "id": 26,
+  "alumnoid": 26,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8c2"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9a0"
+  },
+  "id": 27,
+  "alumnoid": 27,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8c4"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9a2"
+  },
+  "id": 28,
+  "alumnoid": 28,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8c6"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9a4"
+  },
+  "id": 29,
+  "alumnoid": 29,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8c8"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9a6"
+  },
+  "id": 30,
+  "alumnoid": 30,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8ca"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9a8"
+  },
+  "id": 31,
+  "alumnoid": 31,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8cc"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9aa"
+  },
+  "id": 32,
+  "alumnoid": 32,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8ce"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9ac"
+  },
+  "id": 33,
+  "alumnoid": 33,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8d0"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9ae"
+  },
+  "id": 34,
+  "alumnoid": 34,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8d2"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9b0"
+  },
+  "id": 35,
+  "alumnoid": 35,
+  "cursoid": 3,
+  "periodoid": 1,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8d4"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9b2"
+  },
+  "id": 36,
+  "alumnoid": 36,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8d6"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9b4"
+  },
+  "id": 37,
+  "alumnoid": 37,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8d8"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9b6"
+  },
+  "id": 38,
+  "alumnoid": 38,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8da"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9b8"
+  },
+  "id": 39,
+  "alumnoid": 39,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8dc"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9ba"
+  },
+  "id": 40,
+  "alumnoid": 40,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8de"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9bc"
+  },
+  "id": 41,
+  "alumnoid": 41,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8e0"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9be"
+  },
+  "id": 42,
+  "alumnoid": 42,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8e2"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9c0"
+  },
+  "id": 43,
+  "alumnoid": 43,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8e4"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9c2"
+  },
+  "id": 44,
+  "alumnoid": 44,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8e6"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9c4"
+  },
+  "id": 45,
+  "alumnoid": 45,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8e8"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9c6"
+  },
+  "id": 46,
+  "alumnoid": 46,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8ea"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9c8"
+  },
+  "id": 47,
+  "alumnoid": 47,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8ec"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9ca"
+  },
+  "id": 48,
+  "alumnoid": 48,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8ee"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9cc"
+  },
+  "id": 49,
+  "alumnoid": 49,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8f0"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9ce"
+  },
+  "id": 50,
+  "alumnoid": 50,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8f2"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9d0"
+  },
+  "id": 51,
+  "alumnoid": 51,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8f4"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9d2"
+  },
+  "id": 52,
+  "alumnoid": 52,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8f6"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9d4"
+  },
+  "id": 53,
+  "alumnoid": 53,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8f8"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9d6"
+  },
+  "id": 54,
+  "alumnoid": 54,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8fa"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9d8"
+  },
+  "id": 55,
+  "alumnoid": 55,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8fc"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9da"
+  },
+  "id": 56,
+  "alumnoid": 56,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a8fe"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9dc"
+  },
+  "id": 57,
+  "alumnoid": 57,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a900"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9de"
+  },
+  "id": 58,
+  "alumnoid": 58,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a902"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9e0"
+  },
+  "id": 59,
+  "alumnoid": 59,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a904"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9e2"
+  },
+  "id": 60,
+  "alumnoid": 60,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a906"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9e4"
+  },
+  "id": 61,
+  "alumnoid": 61,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a908"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9e6"
+  },
+  "id": 62,
+  "alumnoid": 62,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a90a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9e8"
+  },
+  "id": 63,
+  "alumnoid": 63,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a90c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9ea"
+  },
+  "id": 64,
+  "alumnoid": 64,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a90e"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9ec"
+  },
+  "id": 65,
+  "alumnoid": 65,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a910"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9ee"
+  },
+  "id": 66,
+  "alumnoid": 66,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a912"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9f0"
+  },
+  "id": 67,
+  "alumnoid": 67,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a914"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9f2"
+  },
+  "id": 68,
+  "alumnoid": 68,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a916"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9f4"
+  },
+  "id": 69,
+  "alumnoid": 69,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a918"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9f6"
+  },
+  "id": 70,
+  "alumnoid": 70,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a91a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9f8"
+  },
+  "id": 71,
+  "alumnoid": 71,
+  "cursoid": 8,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a91c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9fa"
+  },
+  "id": 72,
+  "alumnoid": 72,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a91e"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9fc"
+  },
+  "id": 73,
+  "alumnoid": 73,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a920"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a9fe"
+  },
+  "id": 74,
+  "alumnoid": 74,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a922"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa00"
+  },
+  "id": 75,
+  "alumnoid": 75,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a924"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa02"
+  },
+  "id": 76,
+  "alumnoid": 76,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a926"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa04"
+  },
+  "id": 77,
+  "alumnoid": 77,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a928"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa06"
+  },
+  "id": 78,
+  "alumnoid": 78,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a92a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa08"
+  },
+  "id": 79,
+  "alumnoid": 79,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a92c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa0a"
+  },
+  "id": 80,
+  "alumnoid": 80,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a92e"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa0c"
+  },
+  "id": 81,
+  "alumnoid": 81,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a930"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa0e"
+  },
+  "id": 82,
+  "alumnoid": 82,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a932"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa10"
+  },
+  "id": 83,
+  "alumnoid": 83,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a934"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa12"
+  },
+  "id": 84,
+  "alumnoid": 84,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a936"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa14"
+  },
+  "id": 85,
+  "alumnoid": 85,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a938"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa16"
+  },
+  "id": 86,
+  "alumnoid": 86,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a93a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa18"
+  },
+  "id": 87,
+  "alumnoid": 87,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a93c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa1a"
+  },
+  "id": 88,
+  "alumnoid": 88,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a93e"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa1c"
+  },
+  "id": 89,
+  "alumnoid": 89,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a940"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa1e"
+  },
+  "id": 90,
+  "alumnoid": 90,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a942"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa20"
+  },
+  "id": 91,
+  "alumnoid": 91,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a944"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa22"
+  },
+  "id": 92,
+  "alumnoid": 92,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a946"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa24"
+  },
+  "id": 93,
+  "alumnoid": 93,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a948"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa26"
+  },
+  "id": 94,
+  "alumnoid": 94,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a94a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa28"
+  },
+  "id": 95,
+  "alumnoid": 95,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a94c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa2a"
+  },
+  "id": 96,
+  "alumnoid": 96,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a94e"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa2c"
+  },
+  "id": 97,
+  "alumnoid": 97,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a950"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa2e"
+  },
+  "id": 98,
+  "alumnoid": 98,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a952"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa30"
+  },
+  "id": 99,
+  "alumnoid": 99,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a954"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa32"
+  },
+  "id": 100,
+  "alumnoid": 100,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a956"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa34"
+  },
+  "id": 101,
+  "alumnoid": 101,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a958"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa36"
+  },
+  "id": 102,
+  "alumnoid": 102,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a95a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa38"
+  },
+  "id": 103,
+  "alumnoid": 103,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a95c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa3a"
+  },
+  "id": 104,
+  "alumnoid": 104,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a95e"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa3c"
+  },
+  "id": 105,
+  "alumnoid": 105,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a960"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa3e"
+  },
+  "id": 106,
+  "alumnoid": 106,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a962"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa40"
+  },
+  "id": 107,
+  "alumnoid": 107,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a964"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa42"
+  },
+  "id": 108,
+  "alumnoid": 108,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a966"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa44"
+  },
+  "id": 109,
+  "alumnoid": 109,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a968"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0aa46"
+  },
+  "id": 110,
+  "alumnoid": 110,
+  "cursoid": 9,
+  "periodoid": 2,
+  "alumno_ref": {
+    "$oid": "664945eca55921e8e3c0a96a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+}]

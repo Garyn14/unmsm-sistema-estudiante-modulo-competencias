@@ -1,0 +1,1 @@
+- los scripts se ejecutaron en jupyter notebook

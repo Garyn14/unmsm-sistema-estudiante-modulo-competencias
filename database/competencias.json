@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c056"
+  },
+  "id": 1,
+  "codigo": "CG01",
+  "nombre": "Desarrollo ético",
+  "descripcion": "Posee valores, compromiso etico y social.",
+  "tipo": "G"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c058"
+  },
+  "id": 2,
+  "codigo": "CG02",
+  "nombre": "Respeto al medio ambiente",
+  "descripcion": "Es solidario y respeta el medio ambiente",
+  "tipo": "G"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c05a"
+  },
+  "id": 3,
+  "codigo": "CG03",
+  "nombre": "Capacidad de análisis",
+  "descripcion": "Capacidad de analisis y pensamiento critico",
+  "tipo": "G"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c05c"
+  },
+  "id": 4,
+  "codigo": "CG04",
+  "nombre": "Comunicación oral y escrita",
+  "descripcion": "Habilidad para la comunicación oral y escrita en español",
+  "tipo": "G"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c05e"
+  },
+  "id": 5,
+  "codigo": "CG05",
+  "nombre": "Interés social",
+  "descripcion": "Muestra Interes en el desarrollo nacional",
+  "tipo": "G"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c060"
+  },
+  "id": 6,
+  "codigo": "CE06",
+  "nombre": "Construye y dirige empresas de desarrollo y consultoría de software",
+  "descripcion": "Construye y dirige empresas dedicadas a la investigación, desarrollo y consultoría de software utilizando el conocimiento de emprendimiento tecnológico en la industria del software, con una actitud innovadora y de responsabilidad social.",
+  "tipo": "E"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c062"
+  },
+  "id": 7,
+  "codigo": "CE07",
+  "nombre": "Gestiona proyectos de desarrollo de software",
+  "descripcion": "Lidera, planifica, organiza, dirige y controla proyectos de desarrollo de software, en base al conocimiento de los principios, estándares y técnicas modernas de la gestión de proyectos, con actitud crítica, reflexiva y responsable.",
+  "tipo": "E"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c064"
+  },
+  "id": 8,
+  "codigo": "CE08",
+  "nombre": "Desarrolla y mantiene soluciones de software",
+  "descripcion": "Desarrolla y mantiene soluciones de software utilizado metodologías, métodos, técnicas y herramientas de software basado en estándares internacionales de calidad, con actitud crítica, creativa y con trabajo en equipo.",
+  "tipo": "E"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c066"
+  },
+  "id": 9,
+  "codigo": "CE09",
+  "nombre": "Verifica y validar pruebas de soluciones de software",
+  "descripcion": "Diseña, implementa, verifica y valida pruebas de las soluciones de software, utilizado análisis casuístico, técnicas y herramientas de software basado en estándares internacionales de calidad con actitud crítica y con trabajo en equipo.",
+  "tipo": "E"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c068"
+  },
+  "id": 10,
+  "codigo": "CE10",
+  "nombre": "Audita la seguridad y calidad de las soluciones de software",
+  "descripcion": "Audita, verifica y valida los riesgos, la seguridad y la calidad de las soluciones de software, utilizando métodos, técnicas y buenas prácticas de auditoria de software, gestión de riesgos del software, seguridad del software y calidad del software con actitud ética y responsabilidad social.",
+  "tipo": "E"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c06a"
+  },
+  "id": 11,
+  "codigo": "CE11",
+  "nombre": "Implementa y mantiene software inteligente",
+  "descripcion": "Implementa y mantiene software inteligente en base al conocimiento de métodos, técnicas y metodologías de la inteligencia artificial en equipos multidisciplinarios con una actitud ética, crítica e innovadora.",
+  "tipo": "E"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c06c"
+  },
+  "id": 12,
+  "codigo": "CE12",
+  "nombre": "Gestiona soluciones de software para la toma de decisiones gerenciales",
+  "descripcion": "Construye, desarrolla y gestiona soluciones de software para la toma de decisiones gerenciales utilizando las metodologías y estándares internacionales de calidad y de la ciencia de los datos con una actitud ética y responsabilidad social.",
+  "tipo": "E"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c06e"
+  },
+  "id": 13,
+  "codigo": "CE13",
+  "nombre": "Desarrolla investigaciones científico-tecnológicas en Ingeniería de Software",
+  "descripcion": "Desarrolla investigaciones científico-tecnológicas en el campo de la Ingeniería de Software, en equipos multidisciplinarios, en base a la investigación en ingeniería de software, valorando su importancia para el desarrollo nacional con actitud innovadora, ética y destacando la calidad educativa de San Marcos",
+  "tipo": "E"
+}]

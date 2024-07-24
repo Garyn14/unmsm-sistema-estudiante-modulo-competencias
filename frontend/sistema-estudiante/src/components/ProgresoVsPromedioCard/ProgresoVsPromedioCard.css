@@ -1,0 +1,44 @@
+/* src/components/ProgresoVsPromedioCard/ProgresoVsPromedioCard.css */
+.progreso-vs-promedio-card {
+    background-color: #AF695C; /* Brown background */
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 20px;
+    padding-bottom: 40px;
+  }
+  
+  .progreso-vs-promedio-card h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .progreso-vs-promedio-card p {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .progreso-vs-promedio-card .progress-container {
+    margin-bottom: 20px; /* Añade un margen inferior entre las barras */
+  }
+  
+  .progreso-vs-promedio-card .progress-bar {
+    height: 2.5em; /* Aumenta la altura de las barras de progreso */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.0em; /* Aumenta el tamaño de la fuente */
+    position: relative;
+    background-color: #70374F;
+  }
+  
+  .progreso-vs-promedio-card .progress-bar span {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+  }
+  
+.barra-progreso-fondo{
+  height: 2.5em;
+}

@@ -1,0 +1,1100 @@
+[{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a890"
+  },
+  "id": 1,
+  "codigo": 43200176,
+  "nombres": "Thierry",
+  "apellidos": "Henry",
+  "email": "thierry.henry@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a892"
+  },
+  "id": 2,
+  "codigo": 43200237,
+  "nombres": "Ian",
+  "apellidos": "Wright",
+  "email": "ian.wright@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a894"
+  },
+  "id": 3,
+  "codigo": 43200109,
+  "nombres": "Aaron",
+  "apellidos": "Ramsdale",
+  "email": "aaron.ramsdale@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a896"
+  },
+  "id": 4,
+  "codigo": 43200056,
+  "nombres": "Robin ",
+  "apellidos": "Van Persie",
+  "email": "robin.van persie@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a898"
+  },
+  "id": 5,
+  "codigo": 43200076,
+  "nombres": "David",
+  "apellidos": "Raya",
+  "email": "david.raya@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a89a"
+  },
+  "id": 6,
+  "codigo": 43200282,
+  "nombres": "Karl",
+  "apellidos": "Hein",
+  "email": "karl.hein@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a89c"
+  },
+  "id": 7,
+  "codigo": 43200077,
+  "nombres": "William",
+  "apellidos": "Saliba",
+  "email": "william.saliba@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a89e"
+  },
+  "id": 8,
+  "codigo": 43200265,
+  "nombres": "Ben",
+  "apellidos": "White",
+  "email": "ben.white@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8a0"
+  },
+  "id": 9,
+  "codigo": 43200082,
+  "nombres": "Jimmy",
+  "apellidos": "Brain",
+  "email": "jimmy.brain@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8a2"
+  },
+  "id": 10,
+  "codigo": 43200299,
+  "nombres": "Gabriel",
+  "apellidos": "Magalhães",
+  "email": "gabriel.magalhães@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8a4"
+  },
+  "id": 11,
+  "codigo": 43200259,
+  "nombres": "Jurrien",
+  "apellidos": "Timber",
+  "email": "jurrien.timber@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8a6"
+  },
+  "id": 12,
+  "codigo": 43200087,
+  "nombres": "Jakob",
+  "apellidos": "Kiwior",
+  "email": "jakob.kiwior@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8a8"
+  },
+  "id": 13,
+  "codigo": 43200291,
+  "nombres": "John",
+  "apellidos": "Radford",
+  "email": "john.radford@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8aa"
+  },
+  "id": 14,
+  "codigo": 43200289,
+  "nombres": "Lee",
+  "apellidos": "Dixon",
+  "email": "lee.dixon@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8ac"
+  },
+  "id": 15,
+  "codigo": 43200097,
+  "nombres": "Cédric",
+  "apellidos": "Soares",
+  "email": "cédric.soares@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8ae"
+  },
+  "id": 16,
+  "codigo": 43200099,
+  "nombres": "Peter",
+  "apellidos": "Storey",
+  "email": "peter.storey@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8b0"
+  },
+  "id": 17,
+  "codigo": 43200296,
+  "nombres": "Takehiro\t",
+  "apellidos": "Tomiyasu",
+  "email": "takehiro\t.tomiyasu@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8b2"
+  },
+  "id": 18,
+  "codigo": 43200297,
+  "nombres": "Oleksandr",
+  "apellidos": "Zinchenko",
+  "email": "oleksandr.zinchenko@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8b4"
+  },
+  "id": 19,
+  "codigo": 43200248,
+  "nombres": "Gabriel",
+  "apellidos": "Jesus",
+  "email": "gabriel.jesus@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8b6"
+  },
+  "id": 20,
+  "codigo": 43200250,
+  "nombres": "George",
+  "apellidos": "Armstrong",
+  "email": "george.armstrong@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8b8"
+  },
+  "id": 21,
+  "codigo": 34100075,
+  "nombres": "David",
+  "apellidos": "Jack",
+  "email": "david.jack@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8ba"
+  },
+  "id": 22,
+  "codigo": 34100259,
+  "nombres": "Emile",
+  "apellidos": "Smith Rowe",
+  "email": "emile.smith rowe@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8bc"
+  },
+  "id": 23,
+  "codigo": 34100261,
+  "nombres": "Gabriel",
+  "apellidos": "Martinelli",
+  "email": "gabriel.martinelli@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8be"
+  },
+  "id": 24,
+  "codigo": 34100258,
+  "nombres": "Eddie",
+  "apellidos": "Nketiah",
+  "email": "eddie.nketiah@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8c0"
+  },
+  "id": 25,
+  "codigo": 34100282,
+  "nombres": "Leandro",
+  "apellidos": "Trossard",
+  "email": "leandro.trossard@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8c2"
+  },
+  "id": 26,
+  "codigo": 34100326,
+  "nombres": "Reiss",
+  "apellidos": "Nelson",
+  "email": "reiss.nelson@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8c4"
+  },
+  "id": 27,
+  "codigo": 34100283,
+  "nombres": "Kai",
+  "apellidos": "Havertz",
+  "email": "kai.havertz@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8c6"
+  },
+  "id": 28,
+  "codigo": 34100288,
+  "nombres": "Craig",
+  "apellidos": "Holloway",
+  "email": "craig.holloway@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8c8"
+  },
+  "id": 29,
+  "codigo": 34100290,
+  "nombres": "David",
+  "apellidos": "Seaman",
+  "email": "david.seaman@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8ca"
+  },
+  "id": 30,
+  "codigo": 34100292,
+  "nombres": "Bukayo",
+  "apellidos": "Saka",
+  "email": "bukayo.saka@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8cc"
+  },
+  "id": 31,
+  "codigo": 34100295,
+  "nombres": "Rami",
+  "apellidos": "Shaaban",
+  "email": "rami.shaaban@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8ce"
+  },
+  "id": 32,
+  "codigo": 34100271,
+  "nombres": "Stuart",
+  "apellidos": "Taylor",
+  "email": "stuart.taylor@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8d0"
+  },
+  "id": 33,
+  "codigo": 34100118,
+  "nombres": "Guillaume",
+  "apellidos": "Warmuz",
+  "email": "guillaume.warmuz@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8d2"
+  },
+  "id": 34,
+  "codigo": 34100106,
+  "nombres": "Sol",
+  "apellidos": "Campbell",
+  "email": "sol.campbell@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8d4"
+  },
+  "id": 35,
+  "codigo": 34100250,
+  "nombres": "Cliff",
+  "apellidos": "Bastin",
+  "email": "cliff.bastin@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8d6"
+  },
+  "id": 36,
+  "codigo": 34100020,
+  "nombres": "Arthur",
+  "apellidos": "Okonkwo",
+  "email": "arthur.okonkwo@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8d8"
+  },
+  "id": 37,
+  "codigo": 34100021,
+  "nombres": "Mauro",
+  "apellidos": "Bandeira",
+  "email": "mauro.bandeira@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8da"
+  },
+  "id": 38,
+  "codigo": 34100022,
+  "nombres": "Mika",
+  "apellidos": "Biereth",
+  "email": "mika.biereth@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8dc"
+  },
+  "id": 39,
+  "codigo": 34100252,
+  "nombres": "Peter",
+  "apellidos": "Simpson",
+  "email": "peter.simpson@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8de"
+  },
+  "id": 40,
+  "codigo": 34100244,
+  "nombres": "Nuno",
+  "apellidos": "Tavares",
+  "email": "nuno.tavares@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8e0"
+  },
+  "id": 41,
+  "codigo": 52100273,
+  "nombres": "Albert",
+  "apellidos": "Sambi Lokonga",
+  "email": "albert.sambilokonga@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8e2"
+  },
+  "id": 42,
+  "codigo": 52100226,
+  "nombres": "Kieran",
+  "apellidos": "Tierney",
+  "email": "kieran.tierney@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8e4"
+  },
+  "id": 43,
+  "codigo": 52100237,
+  "nombres": "Pat",
+  "apellidos": "Rice",
+  "email": "pat.rice@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8e6"
+  },
+  "id": 44,
+  "codigo": 52100302,
+  "nombres": "Runar Alex",
+  "apellidos": "Runarsson",
+  "email": "runaralex.runarsson@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8e8"
+  },
+  "id": 45,
+  "codigo": 52100021,
+  "nombres": "Marquinhos",
+  "apellidos": "Oliveira",
+  "email": "marquinhos.oliveira@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8ea"
+  },
+  "id": 46,
+  "codigo": 52100130,
+  "nombres": "Ashley",
+  "apellidos": "Cole",
+  "email": "ashley.cole@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8ec"
+  },
+  "id": 47,
+  "codigo": 52100278,
+  "nombres": "Thomas",
+  "apellidos": "Partey",
+  "email": "thomas.partey@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8ee"
+  },
+  "id": 48,
+  "codigo": 52170172,
+  "nombres": "Pascal",
+  "apellidos": "Cygan",
+  "email": "pascal.cygan@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8f0"
+  },
+  "id": 49,
+  "codigo": 52100285,
+  "nombres": "Lauren",
+  "apellidos": "Etame Mayer",
+  "email": "lauren.etamemayer@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8f2"
+  },
+  "id": 50,
+  "codigo": 52100243,
+  "nombres": "Ryan",
+  "apellidos": "Garry",
+  "email": "ryan.garry@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8f4"
+  },
+  "id": 51,
+  "codigo": 52100019,
+  "nombres": "Justin",
+  "apellidos": "Hoyte",
+  "email": "justin.hoyte@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8f6"
+  },
+  "id": 52,
+  "codigo": 52100026,
+  "nombres": "Declan",
+  "apellidos": "Rice",
+  "email": "declan.rice@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8f8"
+  },
+  "id": 53,
+  "codigo": 52100075,
+  "nombres": "Mohamed",
+  "apellidos": "Elneny",
+  "email": "mohamed.elneny@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8fa"
+  },
+  "id": 54,
+  "codigo": 52170079,
+  "nombres": "Juan",
+  "apellidos": ".",
+  "email": "juan@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8fc"
+  },
+  "id": 55,
+  "codigo": 52100138,
+  "nombres": "John",
+  "apellidos": "Radford",
+  "email": "john.radford@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a8fe"
+  },
+  "id": 56,
+  "codigo": 52100264,
+  "nombres": "Oleg",
+  "apellidos": "Luzhniy",
+  "email": "oleg.luzhniy@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a900"
+  },
+  "id": 57,
+  "codigo": 52100027,
+  "nombres": "Martin",
+  "apellidos": "Keown",
+  "email": "martin.keown@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a902"
+  },
+  "id": 58,
+  "codigo": 52100220,
+  "nombres": "Igors",
+  "apellidos": "Stepanovs",
+  "email": "igors.stepanovs@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a904"
+  },
+  "id": 59,
+  "codigo": 52100265,
+  "nombres": "Stathis",
+  "apellidos": "Tavlaridis",
+  "email": "stathis.tavlaridis@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a906"
+  },
+  "id": 60,
+  "codigo": 52100224,
+  "nombres": "Fabio",
+  "apellidos": "Vieira",
+  "email": "fabio.vieira@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a908"
+  },
+  "id": 61,
+  "codigo": 52100288,
+  "nombres": "Kolo",
+  "apellidos": "Touré",
+  "email": "kolo.toure@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a90a"
+  },
+  "id": 62,
+  "codigo": 52100261,
+  "nombres": "Giovanni",
+  "apellidos": "Van Bronckhorst",
+  "email": "giovanni.vanbronckhorst@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a90c"
+  },
+  "id": 63,
+  "codigo": 52100275,
+  "nombres": "David",
+  "apellidos": "Bentley",
+  "email": "david.bentley@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a90e"
+  },
+  "id": 64,
+  "codigo": 52100269,
+  "nombres": "Edu",
+  "apellidos": "Gaspar",
+  "email": "edu.gaspar@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a910"
+  },
+  "id": 65,
+  "codigo": 52100234,
+  "nombres": "Gilberto",
+  "apellidos": "Silva",
+  "email": "gilberto.silva@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a912"
+  },
+  "id": 66,
+  "codigo": 52100292,
+  "nombres": "Martin",
+  "apellidos": "Odegaard",
+  "email": "martin.odegaard@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a914"
+  },
+  "id": 67,
+  "codigo": 52100215,
+  "nombres": "Ingi",
+  "apellidos": "Hojsted",
+  "email": "ingi.hojsted@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a916"
+  },
+  "id": 68,
+  "codigo": 52100195,
+  "nombres": "Freddie",
+  "apellidos": "Ljungberg",
+  "email": "freddie.ljungberg@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a918"
+  },
+  "id": 69,
+  "codigo": 52100236,
+  "nombres": "Ray",
+  "apellidos": "Parlour",
+  "email": "ray.parlour@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a91a"
+  },
+  "id": 70,
+  "codigo": 70000214,
+  "nombres": "Jermaine",
+  "apellidos": "Pennant",
+  "email": "jermaine.pennant@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a91c"
+  },
+  "id": 71,
+  "codigo": 70000218,
+  "nombres": "Robert",
+  "apellidos": "Pirés",
+  "email": "robert.pires@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a91e"
+  },
+  "id": 72,
+  "codigo": 70000065,
+  "nombres": "Catalin",
+  "apellidos": "Cirjan",
+  "email": "catalin.cirjan@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a920"
+  },
+  "id": 73,
+  "codigo": 70000070,
+  "nombres": "Ted",
+  "apellidos": "Drake",
+  "email": "ted.drake@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a922"
+  },
+  "id": 74,
+  "codigo": 70000297,
+  "nombres": "David",
+  "apellidos": "O'Leary",
+  "email": "david.oleary@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a924"
+  },
+  "id": 75,
+  "codigo": 70000069,
+  "nombres": "Sebastian",
+  "apellidos": "Svard",
+  "email": "sebastian.svard@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a926"
+  },
+  "id": 76,
+  "codigo": 70000072,
+  "nombres": "Jerome",
+  "apellidos": "Thomas",
+  "email": "jerome.thomas@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a928"
+  },
+  "id": 77,
+  "codigo": 70000320,
+  "nombres": "Patrick",
+  "apellidos": "Vieira",
+  "email": "patrick.vieira@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a92a"
+  },
+  "id": 78,
+  "codigo": 70000252,
+  "nombres": "Jorginho",
+  "apellidos": ".",
+  "email": "jorginho@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a92c"
+  },
+  "id": 79,
+  "codigo": 70000309,
+  "nombres": "Jérémie",
+  "apellidos": "Aliadiére",
+  "email": "jérémie.aliadiére@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a92e"
+  },
+  "id": 80,
+  "codigo": 70000257,
+  "nombres": "Dennis",
+  "apellidos": "Bergkamp",
+  "email": "dennis.bergkamp@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a930"
+  },
+  "id": 81,
+  "codigo": 70000275,
+  "nombres": "Francis",
+  "apellidos": "Jeffers",
+  "email": "francis.jeffers@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a932"
+  },
+  "id": 82,
+  "codigo": 70000253,
+  "nombres": "David",
+  "apellidos": "Seaman",
+  "email": "david.seaman@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a934"
+  },
+  "id": 83,
+  "codigo": 70000308,
+  "nombres": "Nwankwo",
+  "apellidos": "Kanu",
+  "email": "nwankwo.kanu@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a936"
+  },
+  "id": 84,
+  "codigo": 70000083,
+  "nombres": "Doug",
+  "apellidos": "Lishman",
+  "email": "doug.lishman@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a938"
+  },
+  "id": 85,
+  "codigo": 70000113,
+  "nombres": "Sylvain",
+  "apellidos": "Wiltord",
+  "email": "sylvain.wiltord@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a93a"
+  },
+  "id": 86,
+  "codigo": 70000084,
+  "nombres": "Jens",
+  "apellidos": "Lehmann",
+  "email": "jens.lehmann@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a93c"
+  },
+  "id": 87,
+  "codigo": 70000277,
+  "nombres": "Manuel",
+  "apellidos": "Almunia",
+  "email": "manuel.almunia@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a93e"
+  },
+  "id": 88,
+  "codigo": 70000088,
+  "nombres": "Stuart",
+  "apellidos": "Taylor",
+  "email": "stuart.taylor@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a940"
+  },
+  "id": 89,
+  "codigo": 70000090,
+  "nombres": "Chris",
+  "apellidos": "Wright",
+  "email": "chris.wright@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a942"
+  },
+  "id": 90,
+  "codigo": 70000274,
+  "nombres": "Gael",
+  "apellidos": "Clichy",
+  "email": "gael.clichy@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a944"
+  },
+  "id": 91,
+  "codigo": 61000092,
+  "nombres": "Johan",
+  "apellidos": "Djourou",
+  "email": "johan.djourou@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a946"
+  },
+  "id": 92,
+  "codigo": 61000315,
+  "nombres": "Emmanuel",
+  "apellidos": "Eboué",
+  "email": "emmanuel.eboue@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a948"
+  },
+  "id": 93,
+  "codigo": 61000247,
+  "nombres": "Justin",
+  "apellidos": "Hoyte",
+  "email": "justin.hoyte@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a94a"
+  },
+  "id": 94,
+  "codigo": 61000094,
+  "nombres": "Philippe",
+  "apellidos": "Senderos",
+  "email": "philippe.senderos@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a94c"
+  },
+  "id": 95,
+  "codigo": 61000095,
+  "nombres": "Frank",
+  "apellidos": "Simek",
+  "email": "frank.simek@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a94e"
+  },
+  "id": 96,
+  "codigo": 61000287,
+  "nombres": "Cesc",
+  "apellidos": "Fabregas",
+  "email": "cesc.fabregas@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a950"
+  },
+  "id": 97,
+  "codigo": 61000098,
+  "nombres": "Nigel",
+  "apellidos": "Winterburn",
+  "email": "nigel.winterburn@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a952"
+  },
+  "id": 98,
+  "codigo": 61000100,
+  "nombres": "Patrick",
+  "apellidos": "Cregg",
+  "email": "patrick.cregg@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a954"
+  },
+  "id": 99,
+  "codigo": 61000101,
+  "nombres": "Joe",
+  "apellidos": "Hulme",
+  "email": "joe.hulme@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a956"
+  },
+  "id": 100,
+  "codigo": 61000116,
+  "nombres": "Mathieu",
+  "apellidos": "Flamini",
+  "email": "mathieu.flamini@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a958"
+  },
+  "id": 101,
+  "codigo": 61000251,
+  "nombres": "Gilberto",
+  "apellidos": "Silva",
+  "email": "gilberto.silva@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a95a"
+  },
+  "id": 102,
+  "codigo": 61000105,
+  "nombres": "Tony",
+  "apellidos": "Adams",
+  "email": "tony.adams@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a95c"
+  },
+  "id": 103,
+  "codigo": 61000268,
+  "nombres": "Danny",
+  "apellidos": "Karbassiyoon",
+  "email": "danny.karbassiyoon@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a95e"
+  },
+  "id": 104,
+  "codigo": 61000311,
+  "nombres": "Sebastian",
+  "apellidos": "Larsson",
+  "email": "sebastian.larsson@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a960"
+  },
+  "id": 105,
+  "codigo": 61000107,
+  "nombres": "Ryan",
+  "apellidos": "Smith",
+  "email": "ryan.smith@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a962"
+  },
+  "id": 106,
+  "codigo": 61000256,
+  "nombres": "Arturo",
+  "apellidos": "Lupoli",
+  "email": "arturo.lupoli@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a964"
+  },
+  "id": 107,
+  "codigo": 61000108,
+  "nombres": "Quincy",
+  "apellidos": "Owusu-Abeyie",
+  "email": "quincy.owusu-abeyie@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a966"
+  },
+  "id": 108,
+  "codigo": 61000260,
+  "nombres": ".",
+  "apellidos": "Reyes",
+  "email": "..reyes@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a968"
+  },
+  "id": 109,
+  "codigo": 61000248,
+  "nombres": "Edu",
+  "apellidos": "Gaspar",
+  "email": "edu.gaspar@unmsm.edu.pe"
+},
+{
+  "_id": {
+    "$oid": "664945eca55921e8e3c0a96a"
+  },
+  "id": 110,
+  "codigo": 61000114,
+  "nombres": "Michael",
+  "apellidos": "Jordan",
+  "email": "michael.jordan@unmsm.edu.pe"
+}]

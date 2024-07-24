@@ -1,0 +1,392 @@
+[{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0bc"
+  },
+  "id": 1,
+  "cursoid": 1,
+  "competenciaid": 1,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c056"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b2"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0be"
+  },
+  "id": 2,
+  "cursoid": 1,
+  "competenciaid": 3,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c05a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b2"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0c0"
+  },
+  "id": 3,
+  "cursoid": 1,
+  "competenciaid": 4,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c05c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b2"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0c2"
+  },
+  "id": 4,
+  "cursoid": 1,
+  "competenciaid": 7,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c062"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b2"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0c4"
+  },
+  "id": 5,
+  "cursoid": 1,
+  "competenciaid": 8,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c064"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b2"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0c6"
+  },
+  "id": 6,
+  "cursoid": 1,
+  "competenciaid": 9,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c066"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b2"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0c8"
+  },
+  "id": 7,
+  "cursoid": 3,
+  "competenciaid": 1,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c056"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0ca"
+  },
+  "id": 8,
+  "cursoid": 3,
+  "competenciaid": 3,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c05a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0cc"
+  },
+  "id": 9,
+  "cursoid": 3,
+  "competenciaid": 4,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c05c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0ce"
+  },
+  "id": 10,
+  "cursoid": 3,
+  "competenciaid": 8,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c064"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0d0"
+  },
+  "id": 11,
+  "cursoid": 3,
+  "competenciaid": 13,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c06e"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0d2"
+  },
+  "id": 12,
+  "cursoid": 7,
+  "competenciaid": 1,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c056"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0d4"
+  },
+  "id": 13,
+  "cursoid": 7,
+  "competenciaid": 3,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c05a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0d6"
+  },
+  "id": 14,
+  "cursoid": 7,
+  "competenciaid": 4,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c05c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0d8"
+  },
+  "id": 15,
+  "cursoid": 7,
+  "competenciaid": 7,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c062"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0da"
+  },
+  "id": 16,
+  "cursoid": 7,
+  "competenciaid": 8,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c064"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0dc"
+  },
+  "id": 17,
+  "cursoid": 7,
+  "competenciaid": 9,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c066"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0de"
+  },
+  "id": 18,
+  "cursoid": 8,
+  "competenciaid": 1,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c056"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0e0"
+  },
+  "id": 19,
+  "cursoid": 8,
+  "competenciaid": 3,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c05a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0e2"
+  },
+  "id": 20,
+  "cursoid": 8,
+  "competenciaid": 4,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c05c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0e4"
+  },
+  "id": 21,
+  "cursoid": 8,
+  "competenciaid": 8,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c064"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0e6"
+  },
+  "id": 22,
+  "cursoid": 8,
+  "competenciaid": 9,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c066"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0e8"
+  },
+  "id": 23,
+  "cursoid": 9,
+  "competenciaid": 1,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c056"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0ea"
+  },
+  "id": 24,
+  "cursoid": 9,
+  "competenciaid": 3,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c05a"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0ec"
+  },
+  "id": 25,
+  "cursoid": 9,
+  "competenciaid": 4,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c05c"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0ee"
+  },
+  "id": 26,
+  "cursoid": 9,
+  "competenciaid": 7,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c062"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0f0"
+  },
+  "id": 27,
+  "cursoid": 9,
+  "competenciaid": 8,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c064"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0f2"
+  },
+  "id": 28,
+  "cursoid": 8,
+  "competenciaid": 13,
+  "competencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c06e"
+  },
+  "curso_ref": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  }
+}]

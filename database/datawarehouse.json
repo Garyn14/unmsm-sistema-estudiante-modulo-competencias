@@ -1,0 +1,2761 @@
+[{
+  "_id": {
+    "$oid": "664bbb1267122ba669116247"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 12,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 7.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1267122ba669116248"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 12,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 7.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1267122ba669116249"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 12,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 7.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1267122ba66911624a"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 12,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 8.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1267122ba66911624b"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 12,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 8.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1267122ba66911624c"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 12,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 8.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911624d"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 8,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911624e"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 8,
+  "Competencia_id": 7,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911624f"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 8,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116250"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 8,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116251"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 8,
+  "Competencia_id": 7,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116252"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 8,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116253"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 6,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 11.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116254"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 6,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 11.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116255"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 6,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 11.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116256"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 6,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 10.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116257"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 6,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 10.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116258"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 6,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 10.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116259"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 24,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 10.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911625a"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 24,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 10.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911625b"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 24,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 10.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911625c"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911625d"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911625e"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911625f"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 8
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116260"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 8
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116261"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 8
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116262"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116263"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116264"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116265"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 3
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116266"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 3
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116267"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 3
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116268"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 5.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116269"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 5.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911626a"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 5.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911626b"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 10
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911626c"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 10
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911626d"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 10
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911626e"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 4
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911626f"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 4
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116270"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 4
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116271"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 10
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116272"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 10
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116273"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 10
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116274"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 14
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116275"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 14
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116276"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 14
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116277"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 8.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116278"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 8.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116279"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 8.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911627a"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 35,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911627b"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 35,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911627c"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 35,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911627d"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 32,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911627e"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 32,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911627f"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 32,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116280"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 31,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116281"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 31,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116282"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 31,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116283"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 22,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116284"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 22,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116285"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 22,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116286"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116287"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116288"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba669116289"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 19,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911628a"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 19,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1367122ba66911628b"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 19,
+  "Curso_id": 3,
+  "CursoComponente_id": 1,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba66911628c"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 10,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 16.1
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba66911628d"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 10,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16.1
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba66911628e"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 10,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 16.1
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba66911628f"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 10,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 15.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba669116290"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 10,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 15.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba669116291"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 10,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 15.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba669116292"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 11,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 15.33
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba669116293"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 11,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 14.15
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba669116294"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba669116295"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 19,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba669116296"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 14
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba669116297"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 15.63
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba669116298"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 24,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba669116299"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 15.82
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba66911629a"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 14
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba66911629b"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba66911629c"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 15.86
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba66911629d"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 17.22
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba66911629e"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 17.91
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba66911629f"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 32,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162a0"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 32,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162a1"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 32,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162a2"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 32,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162a3"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162a4"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162a5"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162a6"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162a7"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162a8"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162a9"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162aa"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162ab"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 35,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162ac"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 35,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162ad"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 35,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162ae"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 35,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162af"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 19,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162b0"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 19,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162b1"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 19,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162b2"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 19,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162b3"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 5
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162b4"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 5
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162b5"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 5
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162b6"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 5
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162b7"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162b8"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162b9"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162ba"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162bb"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 22,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162bc"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 22,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162bd"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 22,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162be"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 22,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162bf"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162c0"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162c1"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162c2"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162c3"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 24,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162c4"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 24,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162c5"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 24,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162c6"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 24,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162c7"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162c8"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162c9"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162ca"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162cb"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 5
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162cc"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 5
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162cd"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 5
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162ce"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 5
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162cf"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162d0"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162d1"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162d2"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 3.4
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162d3"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162d4"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162d5"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162d6"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162d7"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 13.6
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162d8"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 13.6
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162d9"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 13.6
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162da"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 13.6
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162db"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162dc"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162dd"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162de"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 16.2
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162df"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 31,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162e0"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 31,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162e1"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 31,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1467122ba6691162e2"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 31,
+  "Curso_id": 3,
+  "CursoComponente_id": 2,
+  "Competencia_id": 13,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162e3"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 32,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162e4"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 32,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162e5"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 32,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162e6"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 8.44
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162e7"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 8.44
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162e8"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 8.44
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162e9"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 5.44
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162ea"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 5.44
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162eb"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 5.44
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162ec"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 35,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162ed"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 35,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162ee"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 35,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162ef"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 19,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162f0"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 19,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162f1"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 19,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162f2"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 13.11
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162f3"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 13.11
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162f4"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 13.11
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162f5"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 3.67
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162f6"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 3.67
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162f7"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 3.67
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162f8"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 22,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162f9"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 22,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162fa"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 22,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162fb"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 16.17
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162fc"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16.17
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162fd"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 16.17
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162fe"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 24,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 15.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba6691162ff"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 24,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 15.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116300"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 24,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 15.5
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116301"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 16.08
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116302"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16.08
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116303"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 16.08
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116304"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 13.22
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116305"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 13.22
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116306"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 13.22
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116307"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 8.56
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116308"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 8.56
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116309"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 8.56
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba66911630a"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 16.33
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba66911630b"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16.33
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba66911630c"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 16.33
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba66911630d"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 13.92
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba66911630e"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 13.92
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba66911630f"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 13.92
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116310"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 16.17
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116311"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 16.17
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116312"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 4,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 16.17
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116313"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 9,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116314"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 9,
+  "Competencia_id": 7,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116315"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 9,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116316"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 9,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116317"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 9,
+  "Competencia_id": 7,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116318"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 9,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba669116319"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 7,
+  "Competencia_id": 7,
+  "AlumnoNotas_nota": 15
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba66911631a"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 7,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 15
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba66911631b"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 2,
+  "Curso_id": 1,
+  "CursoComponente_id": 7,
+  "Competencia_id": 9,
+  "AlumnoNotas_nota": 15
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba66911631c"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 7,
+  "Competencia_id": 7,
+  "AlumnoNotas_nota": 15
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba66911631d"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 7,
+  "Competencia_id": 8,
+  "AlumnoNotas_nota": 15
+},
+{
+  "_id": {
+    "$oid": "664bbb1567122ba66911631e"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 1,
+  "Curso_id": 1,
+  "CursoComponente_id": 7,
+  "Competencia_id": 9,
+  "AlumnoNotas_nota": 15
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911631f"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116320"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 3,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116321"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116322"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116323"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 20,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116324"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116325"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116326"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 26,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116327"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 15
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116328"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 15
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116329"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 28,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 15
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911632a"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911632b"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911632c"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 29,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 18
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911632d"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 7
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911632e"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 7
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911632f"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 23,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 7
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116330"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116331"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116332"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 21,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116333"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116334"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116335"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 27,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116336"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116337"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116338"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 33,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116339"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911633a"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911633b"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 34,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 0
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911633c"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911633d"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911633e"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 25,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 6
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba66911633f"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 1,
+  "AlumnoNotas_nota": 14
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116340"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 3,
+  "AlumnoNotas_nota": 14
+},
+{
+  "_id": {
+    "$oid": "664bbb1667122ba669116341"
+  },
+  "PeriodoAcademico_id": 1,
+  "Alumno_id": 30,
+  "Curso_id": 3,
+  "CursoComponente_id": 5,
+  "Competencia_id": 4,
+  "AlumnoNotas_nota": 14
+}]

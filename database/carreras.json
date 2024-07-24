@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c052"
+  },
+  "id": 1,
+  "codigo": "ISIS",
+  "nombre": "Ingeniería de Sistemas"
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c054"
+  },
+  "id": 2,
+  "codigo": "ISOW",
+  "nombre": "Ingeniería de Software"
+}]

@@ -1,0 +1,462 @@
+[{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c070"
+  },
+  "id": 1,
+  "cursocompetenciaid": 7,
+  "cursocomponenteid": 1,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c8"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0f4"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c072"
+  },
+  "id": 2,
+  "cursocompetenciaid": 7,
+  "cursocomponenteid": 5,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c8"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c074"
+  },
+  "id": 3,
+  "cursocompetenciaid": 8,
+  "cursocomponenteid": 1,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ca"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0f4"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c076"
+  },
+  "id": 4,
+  "cursocompetenciaid": 8,
+  "cursocomponenteid": 2,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ca"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0f6"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c078"
+  },
+  "id": 5,
+  "cursocompetenciaid": 8,
+  "cursocomponenteid": 4,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ca"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c07a"
+  },
+  "id": 6,
+  "cursocompetenciaid": 8,
+  "cursocomponenteid": 5,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ca"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c07c"
+  },
+  "id": 7,
+  "cursocompetenciaid": 9,
+  "cursocomponenteid": 1,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0cc"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0f4"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c07e"
+  },
+  "id": 8,
+  "cursocompetenciaid": 9,
+  "cursocomponenteid": 2,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0cc"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0f6"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c080"
+  },
+  "id": 9,
+  "cursocompetenciaid": 9,
+  "cursocomponenteid": 3,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0cc"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0f8"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c082"
+  },
+  "id": 10,
+  "cursocompetenciaid": 9,
+  "cursocomponenteid": 4,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0cc"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c084"
+  },
+  "id": 11,
+  "cursocompetenciaid": 9,
+  "cursocomponenteid": 5,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0cc"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c086"
+  },
+  "id": 12,
+  "cursocompetenciaid": 10,
+  "cursocomponenteid": 2,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ce"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0f6"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c088"
+  },
+  "id": 13,
+  "cursocompetenciaid": 10,
+  "cursocomponenteid": 4,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0ce"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c08a"
+  },
+  "id": 14,
+  "cursocompetenciaid": 11,
+  "cursocomponenteid": 2,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0d0"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0f6"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c08c"
+  },
+  "id": 15,
+  "cursocompetenciaid": 1,
+  "cursocomponenteid": 6,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0bc"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c08e"
+  },
+  "id": 17,
+  "cursocompetenciaid": 1,
+  "cursocomponenteid": 12,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0bc"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c10a"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c090"
+  },
+  "id": 18,
+  "cursocompetenciaid": 2,
+  "cursocomponenteid": 6,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0be"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c092"
+  },
+  "id": 19,
+  "cursocompetenciaid": 2,
+  "cursocomponenteid": 10,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0be"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c106"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c094"
+  },
+  "id": 20,
+  "cursocompetenciaid": 2,
+  "cursocomponenteid": 12,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0be"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c10a"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c096"
+  },
+  "id": 21,
+  "cursocompetenciaid": 3,
+  "cursocomponenteid": 6,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c0"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c0fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c098"
+  },
+  "id": 22,
+  "cursocompetenciaid": 3,
+  "cursocomponenteid": 8,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c0"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c102"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c09a"
+  },
+  "id": 23,
+  "cursocompetenciaid": 3,
+  "cursocomponenteid": 9,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c0"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c104"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c09c"
+  },
+  "id": 24,
+  "cursocompetenciaid": 3,
+  "cursocomponenteid": 10,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c0"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c106"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c09e"
+  },
+  "id": 25,
+  "cursocompetenciaid": 3,
+  "cursocomponenteid": 11,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c0"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c108"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0a0"
+  },
+  "id": 26,
+  "cursocompetenciaid": 3,
+  "cursocomponenteid": 12,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c0"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c10a"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0a2"
+  },
+  "id": 27,
+  "cursocompetenciaid": 4,
+  "cursocomponenteid": 7,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c2"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c100"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0a4"
+  },
+  "id": 28,
+  "cursocompetenciaid": 4,
+  "cursocomponenteid": 8,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c2"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c102"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0a6"
+  },
+  "id": 29,
+  "cursocompetenciaid": 4,
+  "cursocomponenteid": 9,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c2"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c104"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0a8"
+  },
+  "id": 30,
+  "cursocompetenciaid": 5,
+  "cursocomponenteid": 7,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c4"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c100"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0aa"
+  },
+  "id": 31,
+  "cursocompetenciaid": 5,
+  "cursocomponenteid": 8,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c4"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c102"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0ac"
+  },
+  "id": 32,
+  "cursocompetenciaid": 5,
+  "cursocomponenteid": 9,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c4"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c104"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0ae"
+  },
+  "id": 33,
+  "cursocompetenciaid": 5,
+  "cursocomponenteid": 10,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c4"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c106"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0b0"
+  },
+  "id": 34,
+  "cursocompetenciaid": 6,
+  "cursocomponenteid": 7,
+  "cursocompetencia_ref": {
+    "$oid": "664945f2a55921e8e3c0c0c6"
+  },
+  "cursocomponente_ref": {
+    "$oid": "664945f2a55921e8e3c0c100"
+  }
+}]

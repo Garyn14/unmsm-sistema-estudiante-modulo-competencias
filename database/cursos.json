@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0b2"
+  },
+  "id": 1,
+  "codigo": "50W0100",
+  "nombre": "Análisis y Diseño de Software",
+  "tipo": "obligatorio",
+  "ciclo": "VII",
+  "periodoacademicoid": 1,
+  "planestudiosid": 2,
+  "planestudios_ref": {
+    "$oid": "664945f3a55921e8e3c0c258"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0b4"
+  },
+  "id": 3,
+  "codigo": "50W0102",
+  "nombre": "Arquitecturas Modernas",
+  "tipo": "obligatorio",
+  "ciclo": "VII",
+  "periodoacademicoid": 1,
+  "planestudiosid": 1,
+  "planestudios_ref": {
+    "$oid": "664945f3a55921e8e3c0c256"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0b6"
+  },
+  "id": 7,
+  "codigo": "50W0103",
+  "nombre": "Desarrollo de Software",
+  "tipo": "obligatorio",
+  "ciclo": "VIII",
+  "periodoacademicoid": 1,
+  "planestudiosid": 1,
+  "planestudios_ref": {
+    "$oid": "664945f3a55921e8e3c0c256"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c252"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0b8"
+  },
+  "id": 8,
+  "codigo": "50W0104",
+  "nombre": "Métodos y Técnicas de Diseño",
+  "tipo": "obligatorio",
+  "ciclo": "VI",
+  "periodoacademicoid": 2,
+  "planestudiosid": 1,
+  "planestudios_ref": {
+    "$oid": "664945f3a55921e8e3c0c256"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+},
+{
+  "_id": {
+    "$oid": "664945f2a55921e8e3c0c0ba"
+  },
+  "id": 9,
+  "codigo": "50W0105",
+  "nombre": "Metodologías Ágiles",
+  "tipo": "obligatorio",
+  "ciclo": "X",
+  "periodoacademicoid": 2,
+  "planestudiosid": 1,
+  "planestudios_ref": {
+    "$oid": "664945f3a55921e8e3c0c256"
+  },
+  "periodo_ref": {
+    "$oid": "664945f2a55921e8e3c0c254"
+  }
+}]
